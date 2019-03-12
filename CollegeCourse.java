@@ -9,6 +9,7 @@ public class CollegeCourse
 {
     private String CourseID;
     private int CreditHours;
+    private char Grade;
     
 
 
